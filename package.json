@@ -1,0 +1,16 @@
+{
+  "name": "is-given-number-prime",
+  "version": "1.0.2",
+  "description": "This is to check if a number is prime or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "prime",
+    "prime number"
+  ],
+  "author": "Mahesh Naik",
+  "license": "ISC"
+}
